@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Spiral_Array
 {
-    class Program
+    class Spiral_Array_Class
     {
         static void Main(string[] args)
         {
